@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihir Arora</h1>
-<h3 align="center">A passionate Android Developer in Flutter</h3>
+<h3 align="center">A passionate Android Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihirarora28&label=Profile%20views&color=0e75b6&style=flat" alt="mihirarora28" /> </p>
 
