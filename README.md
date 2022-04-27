@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihirarora28&label=Profile%20views&color=0e75b6&style=flat" alt="mihirarora28" /> </p>
 
-- 🔭 I’m currently working on [Shop App](https://github.com/mihirarora28/ShopApp)
+- 🔭 I’m currently working on [Shop App](https://github.com/mihirarora28/ShopApp2)
 
 - 🌱 I’m currently learning **Authentication**
 
