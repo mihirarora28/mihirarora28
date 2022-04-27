@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Shop App](https://github.com/mihirarora28/ShopApp)
 
-- 🌱 I’m currently learning **State Managements in flutter and new widgets**
+- 🌱 I’m currently learning **Authentication**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mihirarora28](https://github.com/mihirarora28)
 
