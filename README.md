@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mihir Arora</h1>
-<h3 align="center">A passionate Android Developer</h3>
+<h3 align="center">A passionate Android Developer and Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihirarora28&label=Profile%20views&color=0e75b6&style=flat" alt="mihirarora28" /> </p>
 
-- 🔭 I’m currently working on [Shop App](https://github.com/mihirarora28/ShopApp2)
+- 🔭 I’m currently working on [Portfolio Website]
 
-- 🌱 I’m currently learning **Authentication**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mihirarora28](https://github.com/mihirarora28)
 
